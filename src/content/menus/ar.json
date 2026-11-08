@@ -1,0 +1,57 @@
+{
+  "header": [
+    {
+      "label": "الرئيسية",
+      "href": "/"
+    },
+    {
+      "label": "الشركة",
+      "href": "/about/",
+      "children": [
+        {
+          "label": "من نحن",
+          "href": "/about/"
+        },
+        {
+          "label": "اتصل بنا",
+          "href": "/contact/"
+        }
+      ]
+    },
+    {
+      "label": "الخدمات",
+      "href": "/services/",
+      "type": "services"
+    },
+    {
+      "label": "المدونة",
+      "href": "/blog/"
+    },
+    {
+      "label": "اتصل بنا",
+      "href": "/contact/"
+    }
+  ],
+  "footer": [
+    {
+      "label": "الرئيسية",
+      "href": "/"
+    },
+    {
+      "label": "من نحن",
+      "href": "/about/"
+    },
+    {
+      "label": "الخدمات",
+      "href": "/services/"
+    },
+    {
+      "label": "المدونة",
+      "href": "/blog/"
+    },
+    {
+      "label": "اتصل بنا",
+      "href": "/contact/"
+    }
+  ]
+}
